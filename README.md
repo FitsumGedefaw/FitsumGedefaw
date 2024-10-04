@@ -3,7 +3,7 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FitsumGedefaw&show_icons=true&theme=default)
+ [![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=FitsumGedefaw&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
 
 <!-- If you want to include top languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FitsumGedefaw&layout=compact&theme=default)
