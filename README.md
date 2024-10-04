@@ -1,5 +1,12 @@
 ## Hi there 👋
 ### I am Fitsum Gedefaw.
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=FitsumGedefaw&show_icons=true&theme=default)
+
+<!-- If you want to include top languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FitsumGedefaw&layout=compact&theme=default)
 <!--
 **FitsumGedefaw/FitsumGedefaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
