@@ -1,29 +1,19 @@
 <h1 align="center">Hi 👋, I'm Fitsum Gedefaw</h1>
-<h3 align="center">Software Engineer | Next.js Developer | Algorithmic Problem Solver | React developer </h3>
+<h3 align="center">Software Engineer | Next.js Developer | Algorithmic Problem Solver | React developer | BSc Computer Science </h3>
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-# About Me
+# 🚀 About Me
 
 🌱 I’m currently working with **Next.js** and **React**, using **Clean Architecture**.
 
 💬 Let’s make your ideas a reality. **Contact me to get started.**
 
-## Contact
-
-📫 Email: **gedefawfitsum@gmail.com**  
-📫 WhatsApp: **+251910817893**
-
-## Connect
-
-📄 LinkedIn: [www.linkedin.com/in/fitsum-gedefaw](www.linkedin.com/in/fitsum-gedefaw)
-
-
-<h3 align="left">Problem Solving</h3>
+## 💻 I have solved 700+ coding problems on the platforms below.
 <p align="left">
 
   <a href="https://leetcode.com/u/FitsG/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="FitsumLeetcode" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/gedefawfitsum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="FitsumHackerrank" height="30" width="40" /></a>
   <a href="https://codeforces.com/profile/reevo12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="FitsumCodeforces" height="30" width="40" /></a>
+   <a href="https://www.hackerrank.com/profile/gedefawfitsum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="FitsumHackerrank" height="30" width="40" /></a>
 
 </p>
 
@@ -34,6 +24,15 @@
 
 <!-- If you want to include top languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FitsumGedefaw&layout=compact&theme=default)
+
+## 📞 Contact
+
+ <img src="https://img.icons8.com/fluent/24/000000/gmail.png" alt="Gmail" width="20"/> **Email**: gedefawfitsum@gmail.com  
+ <img src="https://img.icons8.com/fluent/24/000000/whatsapp.png" alt="WhatsApp" width="20"/> **WhatsApp**: +251910817893
+
+## 🌐 Connect
+
+ <img src="https://img.icons8.com/fluent/24/000000/linkedin.png" alt="LinkedIn" width="20"/> **LinkedIn**: [www.linkedin.com/in/fitsum-gedefaw](https://www.linkedin.com/in/fitsum-gedefaw)
 <!--
 **FitsumGedefaw/FitsumGedefaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
