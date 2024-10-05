@@ -1,5 +1,31 @@
-## Hi there 👋
-### I am Fitsum Gedefaw.
+<h1 align="center">Hi 👋, I'm Fitsum Gedefaw</h1>
+<h3 align="center">Software Engineer | Next.js Developer | Algorithmic Problem Solver | React developer </h3>
+<img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+# About Me
+
+🌱 I’m currently working with **Next.js** and **React**, using **Clean Architecture**.
+
+💬 Let’s make your ideas a reality. **Contact me to get started.**
+
+## Contact
+
+📫 Email: **gedefawfitsum@gmail.com**  
+📫 WhatsApp: **+251910817893**
+
+## Connect
+
+📄 LinkedIn: [www.linkedin.com/in/fitsum-gedefaw](www.linkedin.com/in/fitsum-gedefaw)
+
+
+<h3 align="left">Problem Solving</h3>
+<p align="left">
+
+  <a href="https://leetcode.com/u/FitsG/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="FitsumLeetcode" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/gedefawfitsum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="FitsumHackerrank" height="30" width="40" /></a>
+  <a href="https://codeforces.com/profile/reevo12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="FitsumCodeforces" height="30" width="40" /></a>
+
+</p>
 
 ## 📊 GitHub Stats
 
