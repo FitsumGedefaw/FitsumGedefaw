@@ -20,7 +20,7 @@
 ## 📊 GitHub Stats
 
  [![John's github stats](https://bad-apple-github-readme.vercel.app/api?username=FitsumGedefaw&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ketema741&" alt="ketema741" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=FitsumGedefaw&" alt="FitsumGedefaw" /></p>
 
 <!-- If you want to include top languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FitsumGedefaw&layout=compact&theme=default)
