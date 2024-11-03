@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fitsum Gedefaw</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Next.js | React | Python | Algorithmic Problem Solver | BSc Computer Science  </h3>
+<h3 align="center">Software Engineer | UI/UX Designer | Figma | Adobe Illustrator | Web Developer | Next.js | React | Python | Algorithmic Problem Solver | BSc Computer Science  </h3>
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 # 🚀 About Me
 
-🌱 I’m currently working with **Next.js** and **React**, using **Clean Architecture**.
+🌱 I’m currently working on UI/UX Design with **Figma**, **Adobe Illustrator**, and **Lookback**, and Web Development with **Next.js** and **React**, and **Clean Architecture**.
 
 💬 Let’s make your ideas a reality. **Contact me to get started.**
 
