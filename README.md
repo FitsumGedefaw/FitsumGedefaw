@@ -4,8 +4,6 @@
 
 # 🚀 About Me
 
-🌱 I’m currently working on UI/UX Design with **Figma**, **Adobe Illustrator**, and **Lookback**, and Web Development with **Next.js** and **React**, and **Clean Architecture**.
-
 💬 Let’s make your ideas a reality. **Contact me to get started.**
 
 ## 💻 I have solved 700+ coding problems on the platforms below.
