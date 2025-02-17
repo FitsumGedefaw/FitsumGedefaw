@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fitsum Gedefaw</h1>
-<h3 align="center">Software Engineer | BSc Computer Science  </h3>
+<h3 align="center">Software Engineer | Frontend Engineer | Product Designer | Fullstack Developer | BSc Computer Science (Highest Honors)  </h3>
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 # 🚀 About Me
