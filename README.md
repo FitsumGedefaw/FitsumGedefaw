@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 # 🚀 About Me
-### I am a Software Engineer & Product Designer with 3+ years of experience in Software Development and Product Design. I bring a rare blend of robust engineering and thoughtful UX design—translating complex requirements into seamless, user-friendly products. I’ve designed and built digital experiences trusted by millions of users, delivering real-world impact at scale.
+### I am a Software Engineer with 3+ years of experience in Software Development and Product Design.
 💬 Let’s make your ideas a reality. **Contact me to get started.**
 
 ## 💻 I have solved 700+ coding problems on the platforms below.
